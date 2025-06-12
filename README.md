@@ -7,14 +7,17 @@ Snort의 기능을 강화 시키는 **자동화 스크립트**입니다.
 # 필수 조건
 리눅스 시스템에 세가지 프로그램이 설치되어 있어야 합니다.
 ### 1.Snort3
-'''sudo apt install snort3'''
+```sudo apt install snort3```
 이 명령어를 통해 설치할 수 있습니다.
 ### 2.Iptables
-'''sudo apt install iptables'''
+```sudo apt install iptables```
 이 명령어를 통해 설치할 수 있습니다.
 ### 3.Python3
-'''sudo apt install python3'''
+
+```sudo apt install python3```
+
 이 명령어를 통해 설치할 수 있습니다.
+
 ---
 # 사용 방법
 추가할 예정입니다.
